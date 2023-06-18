@@ -63,16 +63,16 @@ export function Header() {
     <Wrapper>
       <NavigationLink to="/">
         <Logo src="/logo.png" />
-        <div className="label">Gamba Demo</div>
+        <div className="label">SolaPlay</div>
       </NavigationLink>
       <Links>
-        <a target="_blank" href="https://github.com/gamba-labs/gamba" rel="noreferrer">
+        <a target="_blank" href="#" rel="noreferrer">
           <FaGithub />
         </a>
-        <a target="_blank" href="http://discord.gg/xjBsW3e8fK" rel="noreferrer">
+        <a target="_blank" href="#" rel="noreferrer">
           <FaDiscord />
         </a>
-        <a target="_blank" href="https://twitter.com/GambaLabs" rel="noreferrer">
+        <a target="_blank" href="#" rel="noreferrer">
           <FaTwitter />
         </a>
       </Links>
